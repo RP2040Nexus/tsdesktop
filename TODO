@@ -1,0 +1,7 @@
+- ESP8266
+- ESP32 - flash not remains after reboot
+- PIC32 MX320F128H, I2C, Flash
+- reading by pio 8bitp
+- parallel 16 bit pio
+- unicode 32
+- more microprocessors, forks are welcome
